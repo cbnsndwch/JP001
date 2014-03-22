@@ -1,0 +1,3 @@
+[submodule "extensions/yiiext/behaviors/activerecord-relation"]
+	path = extensions/yiiext/behaviors/activerecord-relation
+	url = https://github.com/yiiext/activerecord-relation-behavior.git
